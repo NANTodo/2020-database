@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="Charts"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="Treatments"/>
+			<item value="addtreat"/>
+			<item value="tl"/>
+			<item value="ttf"/>
+			<item value="treainsrt"/>
+			<item value="insrtt"/>
+			<item value="patinsrt"/>
+			<item value="ptf"/>
+			<item value="pl"/>
+			<item value="insrtp"/>
+			<item value="ntf"/>
+			<item value="nl"/>
+			<item value="insrtn"/>
+			<item value="public void actionPerformed(ActionEvent e) {"/>
+			<item value="dtf"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Charts"/>
+			<item value="addchart"/>
+			<item value="cl"/>
+			<item value="ctf"/>
+			<item value="charinsrt"/>
+			<item value="insrtc"/>
+			<item value="treainsrt"/>
+			<item value="ttf"/>
+			<item value="tl"/>
+			<item value="insrtt"/>
+			<item value="ptf"/>
+			<item value="pl"/>
+			<item value="insrtp"/>
+			<item value="ntf"/>
+			<item value="nl"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="-200"/>
+		<item key="DIALOG_Y_ORIGIN" value="227"/>
+		<item key="DIALOG_WIDTH" value="340"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>
